@@ -69,8 +69,11 @@ To start the Streamlit interface in `app.py`:
 ```bash
 streamlit run app.py
 ```
+<img width="713" height="822" alt="Screenshot 2026-06-10 at 2 33 30 AM" src="https://github.com/user-attachments/assets/b3862954-4e7d-4af2-a97b-4177200b7f1f" />
 
 Then open the URL shown in the terminal (typically `http://localhost:8501`).
+
+<img width="707" height="843" alt="Screenshot 2026-06-10 at 2 37 01 AM" src="https://github.com/user-attachments/assets/d04b7e6c-bcb3-4d81-9096-1ada76532f84" />
 
 ## Configuration
 
