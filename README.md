@@ -86,4 +86,4 @@ Then open the URL shown in the terminal (typically `http://localhost:8501`).
 
 ## License
 
-This repository does not include an explicit license. Add one if you intend to share or publish the code.
+This repository does not include an explicit license.
